@@ -1,6 +1,6 @@
 ## Configurando o projeto
 <p>Alterar o .env para seu banco de dados</p>
-<p>Excutar o comando php composer.phar install para instalar as dependências</p>
+<p>Excutar o comando composer install para instalar as dependências</p>
 <p>Executar o comando php artisan migrate para criar as tabelas do banco de dados</p>
 <p>Executar o comando php artisan serve para rodar o projeto</p>
 
