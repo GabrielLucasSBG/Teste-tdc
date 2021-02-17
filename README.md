@@ -1,4 +1,5 @@
 ## Configurando o projeto
+<p>composer global require laravel/installer</p>
 <p>Alterar o .env para seu banco de dados</p>
 <p>Excutar o comando composer install para instalar as dependências</p>
 <p>Executar o comando php artisan migrate para criar as tabelas do banco de dados</p>
