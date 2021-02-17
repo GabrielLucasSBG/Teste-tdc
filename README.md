@@ -1,4 +1,5 @@
 ## Configurando o projeto
+<p>Versão 8.0 do PHP</p>
 <p>composer global require laravel/installer</p>
 <p>Alterar o .env para seu banco de dados</p>
 <p>Excutar o comando composer install para instalar as dependências</p>
